@@ -42,7 +42,9 @@ Building and evaluating regression modelsGoal: Understand pricing trends and key
 
 💰 Loan Default Risk Prediction
 
-Tech Stack: Python, Pandas, Scikit-learn, Matplotlib, SeabornThis project aims to predict whether a loan will default based on applicant data and credit history.Focus Areas:
+Tech Stack: Python, Pandas, Scikit-learn, Matplotlib, Seaborn
+
+This project aims to predict whether a loan will default based on applicant data and credit history.Focus Areas:
 
 Data wrangling and missing value treatment
 
