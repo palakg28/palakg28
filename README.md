@@ -6,7 +6,9 @@ With a strong foundation in statistics and programming, I love exploring data to
 
 🧠 Skills & Tools
 
-Languages: Python, Java, JavaScript, SQL, MATLAB, R, C/C++, HTML, CSSLibraries & Frameworks: Pandas, NumPy, Scikit-learn, Flask, Seaborn, Matplotlib, TensorFlow, PyTorch, FastAPI, React.js, Node.js, Angular.js, FlutterTools & Platforms: Git, Linux, Jupyter, MySQL, MongoDB, Tableau, Power BI, Excel, Azure, AWSRelevant Coursework: Data Structures, Algorithms, Object Oriented Programming, Discrete Math, Probability & Stats, Linear Algebra, Graph Theory, Data Science in Practice, Theory of Computability
+Languages: Python, Java, JavaScript, SQL, MATLAB, R, C/C++, HTML, CSS
+Libraries & Frameworks: Pandas, NumPy, Scikit-learn, Flask, Seaborn, Matplotlib, TensorFlow, PyTorch, FastAPI, React.js, Node.js, Angular.js, FlutterTools & Platforms: Git, Linux, Jupyter, MySQL, MongoDB, Tableau, Power BI, Excel, Azure, AWS
+Relevant Coursework: Data Structures, Algorithms, Object Oriented Programming, Discrete Math, Probability & Stats, Linear Algebra, Graph Theory, Data Science in Practice, Theory of Computability
 
 📂 Portfolio Projects
 
