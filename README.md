@@ -58,7 +58,7 @@ University of California, San DiegoBachelor of Science, Mathematics–Computer S
 
 Email: palakgupta0428@gmail.com
 
-LinkedIn: palakgupta28
+🔗 [LinkedIn](https://www.linkedin.com/in/palakgupta28/)
 
 📄 [My Resume (PDF)](https://drive.google.com/file/d/1Nrqjr3UAGPTosYmWXalzBHccRyBIE6Wp/view?usp=share_link)
 
