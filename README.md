@@ -52,7 +52,9 @@ Classification modeling using logistic regression and decision treesOutcome: Bui
 
 🎓 Education
 
-University of California, San DiegoBachelor of Science, Mathematics–Computer ScienceAnticipated Graduation: June 2026
+University of California, San Diego : Bachelor of Science, Mathematics–Computer Science
+
+Anticipated Graduation: June 2026
 
 🏆 Certificates
 
