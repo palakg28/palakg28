@@ -1,6 +1,6 @@
 Hi, I'm Palak Gupta
 
-I’m a third-year Mathematics–Computer Science major at UC San Diego, passionate about uncovering insights through data and building intelligent, scalable systems. My interest lies at the intersection of data analysis, machine learning, and business intelligence, with a growing curiosity for AI and fintech solutions.
+I’m a rising senior at UC San Diego, majoring in Mathematics and COmputer Science, passionate about uncovering insights through data and building intelligent, scalable systems. My interest lies at the intersection of data analysis, machine learning, and business intelligence, with a growing curiosity for AI and fintech solutions.
 
 With a strong foundation in statistics and programming, I love exploring data to tell meaningful stories, solve real-world problems, and improve decision-making processes. Whether through academic projects or hands-on tools, I’m always up for learning new techniques and frameworks to grow as a data-driven problem solver.
 
@@ -12,45 +12,33 @@ Libraries & Frameworks: Pandas, NumPy, Scikit-learn, Flask, Seaborn, Matplotlib,
 
 Relevant Coursework: Data Structures, Algorithms, Object Oriented Programming, Discrete Math, Probability & Stats, Linear Algebra, Graph Theory, Data Science in Practice, Theory of Computability
 
-📂 Portfolio Projects
+## 📂 Featured Projects
 
-Here’s a look at some of my hands-on projects in data science and software development:
+### 🗄️ SQL Data Warehouse & Business Analytics System
+**Tech Stack:** SQL Server, Docker, Power BI, Excel, Draw.io  
 
-🔤 WordlePlus
+- Designed and implemented a **Data Warehouse** using the **Medallion architecture (Bronze → Silver → Gold layers)**.  
+- Built **fact and dimension tables** (`fact_sales`, `dim_customer`, `dim_products`) to support analytics.  
+- Created **KPIs, dashboards, and reports** in Power BI to track sales, customer behavior, and product performance.  
+- Integrated **ETL pipelines** for data cleaning, transformation, and enrichment.  
 
-Languages & Tools: Python, HTML, CSSA twist on the classic Wordle game! Users guess a 5-letter word within 6 attempts. After 3 incorrect guesses, a hint can be requested via an API that reveals one correct letter in the right position.Features:
+👉 [View Project Repository](#) *https://github.com/palakg28/sql-data-warehouse-project*
 
-Points-based scoring system
+---
 
-Hint mechanics using API
+### 🤖 n8n AI Agent: Automated Booking & Scheduling
+**Tech Stack:** n8n, Google Sheets API, Google Calendar API, Google Maps API, OpenAI API  
 
-Progress tracking
+- Engineered an **AI-powered Calendar Agent** to automate booking assignments for a cleaning business.  
+- Integrated Google Sheets, Maps, and Calendar APIs with n8n to handle:  
+  - Address enrichment & normalization  
+  - Worker assignment rules (capacity limits, buffers, proximity optimization)  
+  - Calendar updates and cancellations  
+- Reduced manual scheduling time by **50%**, improved efficiency by **35%**, and eliminated conflicts.  
 
-Front-end and back-end integration
+👉 [View Project Repository](#) *https://github.com/palakg28/calendar-scheduling-automation-n8n*
 
-✈️ Airline Industry Use Case: Predicting Airfares
-
-Tech Stack: Python, Pandas, Scikit-learn, Matplotlib, Seaborn, NumPyThis project predicts airfare prices based on flight data, including factors such as source, destination, stops, and flight duration.Steps Involved:
-
-Data cleaning and preprocessing
-
-Exploratory data analysis (EDA)
-
-Feature engineering
-
-Building and evaluating regression modelsGoal: Understand pricing trends and key factors that influence airfare.
-
-💰 Loan Default Risk Prediction
-
-Tech Stack: Python, Pandas, Scikit-learn, Matplotlib, Seaborn
-
-This project aims to predict whether a loan will default based on applicant data and credit history.
-
-Focus Areas: Data wrangling and missing value treatment
-
-EDA and feature importance
-
-Classification modeling using logistic regression and decision treesOutcome: Built a predictive model to classify high-risk applicants and assist in financial decision-making.
+---
 
 🎓 Education
 
