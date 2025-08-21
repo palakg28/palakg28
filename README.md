@@ -1,4 +1,4 @@
-Hi, I'm Palak Gupta
+Hi, I'm Palak
 
 I’m a rising senior at UC San Diego majoring in Mathematics and Computer Science. I am passionate about uncovering insights through data and building intelligent, scalable systems. My interest lies at the intersection of data analysis, machine learning, and business intelligence, with a growing curiosity for AI and fintech solutions.
 
