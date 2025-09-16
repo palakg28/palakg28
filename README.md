@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me  
+## About Me  
 
 I’m a **Mathematics–Computer Science** major at UC San Diego with hands-on experience bridging **data, AI, and business strategy**.  
 My journey spans from building **AI automation agents** at fast-growing startups in Tokyo to designing **data warehouses and analytics systems** for scalable decision-making.  
@@ -67,7 +67,7 @@ My goal? To create data systems that **empower organizations to work smarter, fa
 
 ## 🎓 Education & Certifications  
 
-🎓 **University of California, San Diego (2022 – 2026)**  
+**University of California, San Diego (2022 – 2026)**  
 B.S. **Mathematics – Computer Science**  
 
 📜 **MIT Professional Education** – Data Science & Machine Learning Certificate  
