@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Palak Gupta  
+# Hi there I'm Palak Gupta  
 
 🎯 **Data & AI Analyst | Business Intelligence | Automation Enthusiast**  
 🌎 Based in San Diego, CA | 📚 Rising Senior @ UC San Diego (Math–CS)  
@@ -56,20 +56,12 @@ My goal? To create data systems that **empower organizations to work smarter, fa
 
 ---
 
-### 📊 [Airline Industry Use Case: Predicting Fares & Trends](https://github.com/palakg28/Airline-Industry-Usecase)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
-**Tech:** Python · Pandas · Matplotlib · Regression Modeling  
-- Built predictive models for airfare pricing based on **routes, stops, and journey times**.  
-- Conducted exploratory data analysis to uncover key drivers of pricing variation.  
-- Produced visual insights to support **airline industry revenue optimization**.  
-
----
-
-### 🧩 [Wordle Game with AI-Generated Hints](https://github.com/palakg28/Wordle-AI)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)  
-**Tech:** Python · Flask · JavaScript · OpenAI API  
-- Developed an interactive **Wordle-style game** with real-time AI hint generation.  
-- Optimized backend for faster response times and improved player engagement.  
+### 📊 [HR Analytics Dashboard: Workforce Insights](https://github.com/palakg28/HR-Analytics)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)  
+**Tech:** Python · SQL · Tableau · Power BI  
+- Developed an **end-to-end HR analytics dashboard** to track attrition, performance, and workforce trends.  
+- Analyzed key drivers of employee turnover with **predictive modeling and data visualization**.  
+- Delivered **data-driven recommendations** for workforce planning and retention strategy.  
 
 ---
 
