@@ -1,60 +1,97 @@
-Hi, I'm Palak
+# Hi there 👋 I'm Palak Gupta  
 
-I’m a rising senior at UC San Diego majoring in Mathematics and Computer Science. I am passionate about uncovering insights through data and building intelligent, scalable systems. My interest lies at the intersection of data analysis, machine learning, and business intelligence, with a growing curiosity for AI and fintech solutions.
-
-With a strong foundation in statistics and programming, I love exploring data to tell meaningful stories, solve real-world problems, and improve decision-making processes. Whether through academic projects or hands-on tools, I’m always up for learning new techniques and frameworks to grow as a data-driven problem solver.
-
-🧠 Skills & Tools
-
-Languages: Python, Java, JavaScript, SQL, MATLAB, R, C/C++, HTML, CSS
-
-Libraries & Frameworks: Pandas, NumPy, Scikit-learn, Flask, Seaborn, Matplotlib, TensorFlow, PyTorch, FastAPI, React.js, Node.js, Angular.js, FlutterTools & Platforms: Git, Linux, Jupyter, MySQL, MongoDB, Tableau, Power BI, Excel, Azure, AWS
-
-Relevant Coursework: Data Structures, Algorithms, Object Oriented Programming, Discrete Math, Probability & Stats, Linear Algebra, Graph Theory, Data Science in Practice, Theory of Computability
-
-## 📂 Featured Projects
-
-### 🗄️ SQL Data Warehouse & Business Analytics System
-**Tech Stack:** SQL Server, Docker, Power BI, Excel, Draw.io  
-
-- Designed and implemented a **Data Warehouse** using the **Medallion architecture (Bronze → Silver → Gold layers)**.  
-- Built **fact and dimension tables** (`fact_sales`, `dim_customer`, `dim_products`) to support analytics.  
-- Created **KPIs, dashboards, and reports** in Power BI to track sales, customer behavior, and product performance.  
-- Integrated **ETL pipelines** for data cleaning, transformation, and enrichment.  
-
-👉 [View Project Repository](#) *https://github.com/palakg28/sql-data-warehouse-project*
+🎯 **Data & AI Analyst | Business Intelligence | Automation Enthusiast**  
+🌎 Based in San Diego, CA | 📚 Rising Senior @ UC San Diego (Math–CS)  
+💡 Passionate about uncovering insights, building intelligent systems, and driving data-driven decisions at scale.  
 
 ---
 
-### 🤖 n8n AI Agent: Automated Booking & Scheduling
-**Tech Stack:** n8n, Google Sheets API, Google Calendar API, Google Maps API, OpenAI API  
+## 🚀 About Me  
 
-- Engineered an **AI-powered Calendar Agent** to automate booking assignments for a cleaning business.  
-- Integrated Google Sheets, Maps, and Calendar APIs with n8n to handle:  
-  - Address enrichment & normalization  
-  - Worker assignment rules (capacity limits, buffers, proximity optimization)  
-  - Calendar updates and cancellations  
-- Reduced manual scheduling time by **50%**, improved efficiency by **35%**, and eliminated conflicts.  
+I’m a **Mathematics–Computer Science** major at UC San Diego with hands-on experience bridging **data, AI, and business strategy**.  
+My journey spans from building **AI automation agents** at fast-growing startups in Tokyo to designing **data warehouses and analytics systems** for scalable decision-making.  
 
-👉 [View Project Repository](#) *https://github.com/palakg28/calendar-scheduling-automation-n8n*
+I love working at the intersection of:  
+- 📊 **Data Analytics & Business Intelligence** → turning raw data into actionable insights  
+- 🤖 **AI & Automation** → building workflows that reduce manual overhead  
+- 💼 **Finance & Strategy** → aligning analytics with business growth  
+
+My goal? To create data systems that **empower organizations to work smarter, faster, and with greater impact**.  
 
 ---
 
-🎓 Education
+## 🛠️ Tech Stack  
 
-University of California, San Diego : Bachelor of Science, Mathematics–Computer Science
+**Languages & Querying:**  
+`Python` · `SQL` · `Java` · `R` · `MATLAB` · `C`  
 
-Anticipated Graduation: June 2026
+**Data & BI Tools:**  
+`Tableau` · `Power BI` · `Looker Studio` · `Excel (VBA, Macros)` · `ETL Pipelines`  
 
-🏆 Certificates
+**AI & ML:**  
+`n8n Automation` · `OpenAI API` · `Scikit-learn` · `Pandas` · `NumPy`  
 
-- [Data Science and Machine Learning - MIT Schwarzman College of Computing](https://drive.google.com/file/d/1RvM2h5yK1YYIJD47eOoCNzEY5XlJdd5G/view?usp=share_link)
+**Cloud & DevOps:**  
+`Azure` · `Google Cloud` · `Docker` · `GitHub`  
 
-📧 Contact Me
+---
 
-Email: palakgupta0428@gmail.com
+## 🌟 Featured Projects  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/palakgupta28/)
+### 📦 [SQL Data Warehouse & Business Analytics System](https://github.com/palakg28/Data-Warehouse-Analytics)  
+![SQL](https://img.shields.io/badge/SQL-316192?style=flat&logo=postgresql&logoColor=white)  
+**Tech:** SQL Server · Docker · ETL Pipelines · Tableau  
+- Designed a **multi-layered data warehouse (Bronze → Silver → Gold)** to centralize and clean sales data.  
+- Built **dimension & fact models** (`dim_customer`, `dim_products`, `fact_sales`) powering BI dashboards.  
+- Delivered **KPI reports & trend analysis** to simulate real enterprise analytics.  
 
-📄 [My Resume (PDF)](https://drive.google.com/file/d/1Nrqjr3UAGPTosYmWXalzBHccRyBIE6Wp/view?usp=share_link)
+---
+
+### 🤖 [AI Calendar Agent: Automated Booking & Scheduling](https://github.com/palakg28/AI-Calendar-Agent)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-A020F0?style=flat&logo=n8n&logoColor=white)  
+**Tech:** n8n · Google Sheets API · Google Maps API · OpenAI API  
+- Automated staff scheduling with **capacity rules, travel proximity, and rest buffers**.  
+- Reduced manual scheduling time by **50%**, optimized workloads, and prevented double-bookings.  
+- Integrated multilingual **address normalization pipelines**, cutting duplicate entries by 90%.  
+
+---
+
+### 📊 [Airline Industry Use Case: Predicting Fares & Trends](https://github.com/palakg28/Airline-Industry-Usecase)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+**Tech:** Python · Pandas · Matplotlib · Regression Modeling  
+- Built predictive models for airfare pricing based on **routes, stops, and journey times**.  
+- Conducted exploratory data analysis to uncover key drivers of pricing variation.  
+- Produced visual insights to support **airline industry revenue optimization**.  
+
+---
+
+### 🧩 [Wordle Game with AI-Generated Hints](https://github.com/palakg28/Wordle-AI)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)  
+**Tech:** Python · Flask · JavaScript · OpenAI API  
+- Developed an interactive **Wordle-style game** with real-time AI hint generation.  
+- Optimized backend for faster response times and improved player engagement.  
+
+---
+
+## 🎓 Education & Certifications  
+
+🎓 **University of California, San Diego (2022 – 2026)**  
+B.S. **Mathematics – Computer Science**  
+
+📜 **MIT Professional Education** – Data Science & Machine Learning Certificate  
+
+---
+
+## 🤝 Let’s Connect  
+
+💼 [LinkedIn](https://www.linkedin.com/in/palakgupta28/) 
+📄 [My Resume (PDF)](https://drive.google.com/file/d/1PnRYo3NJdoRg0DjhFpvUvmL5-YrXvqYO/view?usp=sharing)
+📧 palakgupta0428@gmail.com  
+
+🔍 Open to **Data Analyst, Business Analyst, AI/Automation Analyst, and Business Intelligence roles** — eager to bring impact at scale.  
+
+---
+
+✨ *“Data tells stories. I build the systems that make them speak.”*  
+
 
