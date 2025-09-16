@@ -1,4 +1,4 @@
-# Hi there I'm Palak Gupta  
+# Hi there, I'm Palak Gupta  
 
 🎯 **Data & AI Analyst | Business Intelligence | Automation Enthusiast**  
 🌎 Based in San Diego, CA | 📚 Rising Senior @ UC San Diego (Math–CS)  
